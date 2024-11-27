@@ -19,11 +19,11 @@ O sistema foi projetado para gerenciar os seguintes componentes de uma bibliotec
    - Os livros estão relacionados com categorias, editoras e autores.
    - Os empréstimos conectam usuários, livros e funcionários.
 
-## Inserção de Dados
+## 📥 Inserção de Dados
 
 O script inclui exemplos de inserção de dados em todas as tabelas, com informações sobre categorias, editoras, autores, livros, usuários, funcionários e registros de empréstimos.
 
-## 📥 Consultas SQL
+## 📦 Consultas SQL
 
 O repositório apresenta consultas SQL que atendem às necessidades práticas da biblioteca, como:
 
